@@ -1,11 +1,11 @@
 window.onload = function() {
   if (fetch) {
-    fetch('https://api.github.com/repos/okazari/bruhh.js/stats/contributors')
+    fetch('https://api.github.com/repos/ForsakenNydoseth/bruhh.js/stats/contributors')
       .then(d => d.json())
       .then(data => {
         if (!data) return
         const contributors = data.filter(
-          d => d.author.login !== 'bplouzennec' && d.author.login !== 'Okazari'
+          d => d.author.login !== 'bplouzennec' && d.author.login !== 'ForsakenNydoseth'
         )
         const contributor =
           contributors[Math.floor(Math.random() * contributors.length)].author
