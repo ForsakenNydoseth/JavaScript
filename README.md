@@ -57,6 +57,6 @@ This object must have two properties:
  - dance: The custom function to make elements dance
  - reset: The associated custom function that will be called to reset element style
 
-License: suck my ass and u get it for free
+License: eat my ass and u get it for free
 
 Author: [@ForsakenNydoseth]
