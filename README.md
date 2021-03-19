@@ -1,7 +1,7 @@
 # Contribute
 
 
-<♫/> bruhh.js - 0.0.fuckyou
+</> bruhh.js - 0.0.fuckyou
 ======================
 
 [![Build Status](https://travis-ci.org/ForsakenNydoseth/bruhh.js.svg?branch=main)](https://travis-ci.org/ForsakenNydoseth/bruhh.js)
