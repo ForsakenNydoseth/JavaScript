@@ -6,9 +6,7 @@
 
 [![Build Status](https://travis-ci.org/ForsakenNydoseth/bruhh.js.svg?branch=main)](https://travis-ci.org/ForsakenNydoseth/bruhh.js)
 
-Demo at: [https://ForsakenNydoseth.github.io/bruhh.js/](https://ForsakenNydoseth.github.io/bruhh.js/)
-
-A JavaScript library that makes your page dance.
+Dat: [https://ForsakenNydoseth.github.io/bruhh.js/](https://ForsakenNydoseth.github.io/bruhh.js/)
 
 
 Getting started
